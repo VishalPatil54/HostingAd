@@ -1,0 +1,309 @@
+*{
+	box-sizing: border-box;
+}
+.background{
+	background:   linear-gradient(
+      rgba(75, 201, 187, 0.75), 
+      rgba(75, 201, 187, 0.75)
+    ),url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+.headtext{
+	color: #FFFF46 ;
+}
+
+#logo{
+	width: 20px;
+	height: 20px;
+}
+
+.logo-head{
+	padding-bottom: 50px;
+}
+
+#logotxt{
+	font-weight: bold;
+	color: #fff;
+	font-size: 2.5ex;
+}
+.price-head{
+	color: #fff;
+	text-align: right;
+}
+
+.price{
+	color: #fff;
+	font-size: 10ex;
+	text-align: right;
+	padding-top: 0px;
+}
+
+.price-low{
+	color: #fff;
+	text-align: right;
+}
+#button{
+	background-color: #FFFF46;
+	float: right;
+	margin-top: 20px;
+	width: 50%;
+}
+
+.headtextcol{
+	color: #fff;
+}
+
+.colr{
+	color: #FFFF46;
+}
+.layer{
+	background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#tile1,#tile2,#tile3{
+	margin-top: 30px;
+	text-align: left;
+	box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+#tile1{
+	background-color: #FFFF46;
+}
+
+#tile2{
+	background-color: #4BC9BB;
+}
+
+#tile3{
+	background-color: #F2260E ;
+}
+
+.tiletext0{
+	font-size: 4ex;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+.tiletext1{
+	font-size: 2.5ex;
+	text-align: left;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+.tiletext2{
+	font-size: 5ex;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+.tiletext3{
+	font-size: 1ex;
+}
+
+#tile1info{
+	background-color: #fff;
+	padding-left: 20px;
+}
+
+p{
+	margin-bottom:  0px;
+}
+
+#button2{
+	background-color: #4BC9BB;
+	margin-left: 80px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.content1,.content3,.content5{
+	background-color: #ECECF0 ;
+	margin-top: 0px;
+}
+
+#img1{
+	background: url(../images/image1.png);
+	width: 300px;
+	height:300px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+#img2{
+	background: url(../images/image2.jpeg);
+	width: 300px;
+	height:300px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.rowHead{
+	margin-top: 20px;
+	font-size:5ex;
+}
+
+#button3{
+	background-color: #4BC9BB;
+}
+
+#img3{
+	background: url(../images/image3.jpeg);
+	width: 100px;
+	height:100px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+#img4{
+	background: url(../images/image4.jpeg);
+	width: 100px;
+	height:100px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+#img5{
+	background: url(../images/image5.png);
+	width: 100px;
+	height:100px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+#img6{
+	background: url(../images/image6.jpeg);
+	width: 100px;
+	height:100px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.con3info{
+	color:#4B64FB ;
+	font-weight: bold;
+}
+
+.content4{
+	background-color: #4BC9BB;
+}
+
+#ppl1{
+	background: url(../images/ppl1.png);
+	width: 150px;
+	height:150px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+#ppl2{
+	background: url(../images/ppl2.png);
+	width: 150px;
+	height:150px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+#ppl3{
+	background: url(../images/ppl3.png);
+	width: 150px;
+	height:150px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+.author{
+	color: #FFFF46;
+	padding-bottom: 30px;
+}
+
+.cont5box1{
+	background-color: #fff;
+	margin-bottom: 10px;
+	margin-top: 40px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.cont5boxl{
+	background-color: #4BC9BB;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.cont5boxr{
+	background-color: #fff;
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+.cont5boxh1{
+	font-size: 5ex;
+	padding-left: 20px;
+}
+
+.cont5boxh2{
+	font-size: 3ex;
+	color: #4BC9BB;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+.cont5boxinfo{
+	padding-left: 20px;
+}
+
+.content6{
+	background-color: #FFFF46;
+}
+
+.edit{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.Subscribe{
+	font-weight: bold;
+	padding-right: 10px;
+	font-size: 3ex;
+}
+
+.cont6info{
+	color: #4BC9BB;
+}
+
+.footer{
+	background-color: #4BC9BB;
+}
+
+.footh{
+	color: #fff;
+	padding-bottom: 10px;
+	padding-top: 40px;
+	font-weight: bold;
+	font-size: 2.5ex;
+}
+
+.footsub{
+	color: #FFFF46;
+}
